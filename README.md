@@ -5,4 +5,3 @@ Implementation of various Machine Learning algorithms from scratch(that is witho
 
 Implementation of k-Means and kernel k-Means algorithms for clustering/classification problem.
 
-Comparison of the correctness of the algorithms with sklearn.
